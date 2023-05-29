@@ -1,0 +1,1 @@
+/home/hebbar/workspace/github.com/hebbaraditya/wasm_rust/hello-wasm/target/wasm32-unknown-unknown/release/hello_wasm.wasm: /home/hebbar/workspace/github.com/hebbaraditya/wasm_rust/hello-wasm/src/lib.rs
